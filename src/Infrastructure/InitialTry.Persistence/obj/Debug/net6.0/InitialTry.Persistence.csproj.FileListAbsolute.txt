@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Infrastructure\InitialTry.Persistence\bin\Debug\net6.0\InitialTry.Persistence.deps.json
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Infrastructure\InitialTry.Persistence\bin\Debug\net6.0\InitialTry.Persistence.dll
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Infrastructure\InitialTry.Persistence\bin\Debug\net6.0\InitialTry.Persistence.pdb
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Infrastructure\InitialTry.Persistence\bin\Debug\net6.0\InitialTry.Application.dll
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Infrastructure\InitialTry.Persistence\bin\Debug\net6.0\InitialTry.Domain.dll
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Infrastructure\InitialTry.Persistence\bin\Debug\net6.0\InitialTry.Application.pdb
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Infrastructure\InitialTry.Persistence\bin\Debug\net6.0\InitialTry.Domain.pdb
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Infrastructure\InitialTry.Persistence\obj\Debug\net6.0\InitialTry.Persistence.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Infrastructure\InitialTry.Persistence\obj\Debug\net6.0\InitialTry.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Infrastructure\InitialTry.Persistence\obj\Debug\net6.0\InitialTry.Persistence.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Infrastructure\InitialTry.Persistence\obj\Debug\net6.0\InitialTry.Persistence.AssemblyInfo.cs
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Infrastructure\InitialTry.Persistence\obj\Debug\net6.0\InitialTry.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Infrastructure\InitialTry.Persistence\obj\Debug\net6.0\InitialTry.Persistence.csproj.CopyComplete
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Infrastructure\InitialTry.Persistence\obj\Debug\net6.0\InitialTry.Persistence.dll
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Infrastructure\InitialTry.Persistence\obj\Debug\net6.0\refint\InitialTry.Persistence.dll
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Infrastructure\InitialTry.Persistence\obj\Debug\net6.0\InitialTry.Persistence.pdb
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Infrastructure\InitialTry.Persistence\obj\Debug\net6.0\ref\InitialTry.Persistence.dll

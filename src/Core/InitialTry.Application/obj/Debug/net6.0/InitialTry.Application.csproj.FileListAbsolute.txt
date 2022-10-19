@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Core\InitialTry.Application\bin\Debug\net6.0\InitialTry.Application.deps.json
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Core\InitialTry.Application\bin\Debug\net6.0\InitialTry.Application.dll
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Core\InitialTry.Application\bin\Debug\net6.0\InitialTry.Application.pdb
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Core\InitialTry.Application\bin\Debug\net6.0\InitialTry.Domain.dll
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Core\InitialTry.Application\bin\Debug\net6.0\InitialTry.Domain.pdb
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Core\InitialTry.Application\obj\Debug\net6.0\InitialTry.Application.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Core\InitialTry.Application\obj\Debug\net6.0\InitialTry.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Core\InitialTry.Application\obj\Debug\net6.0\InitialTry.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Core\InitialTry.Application\obj\Debug\net6.0\InitialTry.Application.AssemblyInfo.cs
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Core\InitialTry.Application\obj\Debug\net6.0\InitialTry.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Core\InitialTry.Application\obj\Debug\net6.0\InitialTry.Application.csproj.CopyComplete
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Core\InitialTry.Application\obj\Debug\net6.0\InitialTry.Application.dll
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Core\InitialTry.Application\obj\Debug\net6.0\refint\InitialTry.Application.dll
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Core\InitialTry.Application\obj\Debug\net6.0\InitialTry.Application.pdb
+C:\Users\User\source\repos\InitialTry\InitialTry\src\Core\InitialTry.Application\obj\Debug\net6.0\ref\InitialTry.Application.dll

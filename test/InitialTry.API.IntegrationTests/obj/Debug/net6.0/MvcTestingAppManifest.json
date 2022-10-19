@@ -1,0 +1,8 @@
+{
+  "InitialTry.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\User\\source\\repos\\InitialTry\\InitialTry\\src\\API\\InitialTry.Api",
+  "InitialTry.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\User\\source\\repos\\InitialTry\\InitialTry\\src\\Core\\InitialTry.Application",
+  "InitialTry.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\User\\source\\repos\\InitialTry\\InitialTry\\src\\Core\\InitialTry.Domain",
+  "InitialTry.Identity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\User\\source\\repos\\InitialTry\\InitialTry\\src\\Infrastructure\\InitialTry.Identity",
+  "InitialTry.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\User\\source\\repos\\InitialTry\\InitialTry\\src\\Infrastructure\\InitialTry.Infrastructure",
+  "InitialTry.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\User\\source\\repos\\InitialTry\\InitialTry\\src\\Infrastructure\\InitialTry.Persistence"
+}
